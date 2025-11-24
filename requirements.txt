@@ -1,0 +1,16 @@
+# conda create -p venv python==3.13
+# pip install -r requirements.txt
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+chromadb
+sentence-transformers
+python-dotenv
+pypdf
+ipykernel
+arxiv
+Wikipedia
+langchain_huggingface
+streamlit
